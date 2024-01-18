@@ -55,6 +55,6 @@ minimal-mistakes
 |  |  └── main.min.js          # optimized and concatenated script file loaded before </body>
 ├── _config.yml                # site configuration
 ├── Gemfile                    # gem file dependencies
-├── index.html                 # paginated home page showing recent posts
+├── index.md                 # paginated home page showing recent posts
 └── package.json               # NPM build scripts
 ```
