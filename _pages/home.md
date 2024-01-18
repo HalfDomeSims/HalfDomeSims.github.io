@@ -1,5 +1,5 @@
 ---
-# If you want to edit the homepage go to index.html, not here! 
+# If you want to edit the homepage go to index.md, not here! 
 # But this is a nice template for a splash page if ever you want one.
 layout: splash
 permalink: /
