@@ -21,7 +21,7 @@ To exclude files when using Algolia as a search provider add an array to `algoli
 algolia:
   # Exclude more files from indexing
   files_to_exclude:
-    - index.md
+    - index.html
     - index.md
     - excluded-file.html
     - _posts/2017-11-28-post-exclude-search.md
