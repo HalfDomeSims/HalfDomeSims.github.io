@@ -17,27 +17,7 @@ last_modified_at: 2024-01-18
 toc: false
 ---
 
-Upcoming cosmological surveys have the potential to
-reach groundbreaking discoveries on multiple fronts
-such as the neutrino mass, dark energy, and inflation.
-However, most of the key science goals require the joint
-analysis of multiple datasets to break parameter
-degeneracies and calibrate systematics. To realize such
-analyses, a large set of simulations that models the
-realistic observables in a correlated manner is required.
-
-We are a diverse team of experts in the worlds of the
-CMB, LSS, and Machine Learning set on simulating the Universe
-to enable the joint analysis of Stage IV
-cosmological surveys, such as Rubin LSST, Euclid,
-SPHEREx, Roman, DESI, PFS, Simons Observatory, CMB-S4,
-and LiteBIRD.
-
----
-
 <strong> THE TEAM </strong>
-
-
 
 <a href="https://adrianbayer.github.io/">Adrian Bayer</a> (project co-leader)
 
