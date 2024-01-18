@@ -107,7 +107,7 @@ author:
   name             : "HalfDome"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Correlated Simulations of the Universe"
-  location         : ""
+  #location         : ""
   email            : abayer@princeton.edu
   links:
     - label: "Email"
