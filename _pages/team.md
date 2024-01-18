@@ -17,8 +17,6 @@ last_modified_at: 2024-01-18
 toc: false
 ---
 
-<strong> THE TEAM </strong>
-
 <a href="https://adrianbayer.github.io/">Adrian Bayer</a>
 
 <a href="https://liuxx479.github.io/">Jia Liu</a>
