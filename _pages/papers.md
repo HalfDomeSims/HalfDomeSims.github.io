@@ -1,5 +1,5 @@
 ---
-permalink: /paper/
+permalink: /papers/
 title: "Papers"
 #excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 layouts_gallery:
