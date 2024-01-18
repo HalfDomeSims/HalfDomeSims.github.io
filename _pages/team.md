@@ -17,14 +17,28 @@ last_modified_at: 2024-01-18
 toc: false
 ---
 
-<a href="https://adrianbayer.github.io/">Adrian Bayer</a>
+<a href="https://adrianbayer.github.io/">Adrian Bayer</a> (Princeton/CCA)
 
-<a href="https://liuxx479.github.io/">Jia Liu</a>
+<a href="https://liuxx479.github.io/">Jia Liu</a> (Kavli IPMU)
 
-<a href="https://j-dr.github.io/">Joe DeRose</a>
+<a href="https://j-dr.github.io/">Joe DeRose</a> (UC Berkeley/LBL)
 
-<a href="https://rainwoodman.github.io/website/">Yu Feng</a>
+<a href="https://yicizhong98.github.io/">Yici Zhong</a> (U Tokyo)
 
-<a href="https://zack.li/">Zack Li</a>
+<a href="https://rainwoodman.github.io/website/">Yu Feng</a> (Google)
 
-<a href="https://yicizhong98.github.io/">Yici Zhong</a>
+<a href="https://zack.li/">Zack Li</a> (UC Berkeley/LBL)
+
+Alex Laguë (U Penn)
+
+Giuseppe Puglisi (U Catania)
+
+Hideki Tanimura (Kavli IPMU)
+
+Junjie Xia (Kavli IPMU)
+
+Marcelo Alvarez (LBL)
+
+Mat Madhavacheril (U Penn)
+
+Will Coulton (CCA)
