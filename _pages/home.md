@@ -37,8 +37,10 @@ cosmological surveys, such as Rubin LSST, Euclid,
 SPHEREx, Roman, DESI, PFS, Simons Observatory, CMB-S4,
 and LiteBIRD.
 
-Check out the <a href="https://halfdomesims.github.io/papers/">Papers</a> tab for more information on specific projects,
-and feel free to reach out to
+To find out more check out the 
+<a href="https://halfdomesims.github.io/papers/">Papers</a> 
+tab for more information on specific projects
+or reach out to
 <a href="mailto:abayer@princeton.edu">Adrian Bayer</a>
 and
 <a href="mailto:jia.liu@ipmu.jp">Jia Liu</a>!
