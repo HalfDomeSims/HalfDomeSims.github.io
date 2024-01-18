@@ -30,17 +30,14 @@ degeneracies and calibrate systematics. To realize such
 analyses, a large set of simulations that models the
 realistic observables in a correlated manner is required.
 
-We are a diverse team of practitioners in the worlds of the
+We are a diverse team of experts in the worlds of the
 CMB, LSS, and Machine Learning set on simulating the Universe
 to enable the joint analysis of Stage IV
 cosmological surveys, such as Rubin LSST, Euclid,
 SPHEREx, Roman, DESI, PFS, Simons Observatory, CMB-S4,
 and LiteBIRD.
 
-To find out more check out the 
-<a href="https://halfdomesims.github.io/papers/">Papers</a> 
-tab for more information on specific projects
-or reach out to
+To find out more check out the rest of our website or reach out to
 <a href="mailto:abayer@princeton.edu">Adrian Bayer</a>
 and
 <a href="mailto:jia.liu@ipmu.jp">Jia Liu</a>!
