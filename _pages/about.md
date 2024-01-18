@@ -30,12 +30,12 @@ a set of large-volume medium-resolution simulations
 designed specifically for the joint analysis of Stage IV 
 cosmological surveys, such as Rubin LSST, Euclid, 
 SPHEREx, Roman, DESI, PFS, Simons Observatory, CMB-S4, 
-and LiteBIRD. Our full-resolution runs ($6144^3$ 
-particles, $3750$ $\mathrm{Mpc}/h$ box) reach a minimal 
-halo mass of $\sim 10^{12}$ $M_\odot \, h^{-1}$ and 
-resolution $k \sim 1\,h\; {\rm Mpc}^{-1}$. They cover 
-the full spherical volume between $z$=0--4. Our data 
-release of $\approx$300TB data includes the particle 
+and LiteBIRD. Our full-resolution runs ($$6144^3$$ 
+particles, $$3750$$ $$\mathrm{Mpc}/h$$ box) reach a minimal 
+halo mass of $$\sim 10^{12}$$ $$M_\odot \, h^{-1}$$ and 
+resolution $$k \sim 1\,h\; {\rm Mpc}^{-1}$$. They cover 
+the full spherical volume between $$z$$=0--4. Our data 
+release of $$\approx$$300TB data includes the particle 
 and halo lightcones of 11 realizations and an additional 
-run with primordial non-Gaussianity $f_{\rm NL}$=20.
+run with primordial non-Gaussianity $$f_{\rm NL}$$=20.
 
