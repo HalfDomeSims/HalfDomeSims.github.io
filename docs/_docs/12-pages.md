@@ -13,7 +13,7 @@ To better organize all of your pages you can centralize them into a single locat
 sample-project
 └── _pages/
     ├── 404.md               # custom 404 page
-    ├── about.md             # about page
+    ├── team.md             # about page
     └── contact.md           # contact page
 ```
 

@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ebf09791-90a8-4a6b-9bec-0c2bfb4a8ca6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_pages/acknowledgements.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_pages/team.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/data.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/home.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/home.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/papers.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/publications.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_docs/12-pages.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_docs/12-pages.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,11 +34,12 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/adrianbayer/source/HalfDomeSims/HalfDomeSims.github.io"
+    "last_opened_file_path": "/Users/adrianbayer/source/HalfDomeSims/HalfDomeSims.github.io/_pages"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_pages" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/docs/_pages" />
     </key>

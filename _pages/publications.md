@@ -1,6 +1,6 @@
 ---
-permalink: /papers/
-title: "Papers"
+permalink: /publications/
+title: "Publications"
 #excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 classes: wide
 layouts_gallery:
@@ -46,6 +46,4 @@ Here is a list of all ongoing projects and their leaders:
 
 Got an idea for a project and want to chat? 
 Reach out to 
-<a href="mailto:abayer@princeton.edu">Adrian Bayer</a> 
-and 
-<a href="mailto:jia.liu@ipmu.jp">Jia Liu</a>!
+<a href="mailto:abayer@princeton.edu">Adrian Bayer</a>!

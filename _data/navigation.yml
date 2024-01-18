@@ -1,6 +1,10 @@
 # main links
 main:
-  - title: "Papers"
-    url: /papers/
-  - title: "About"
-    url: /about/
+  - title: "Data"
+    url: /data/
+  - title: "Publications"
+    url: /publications/
+  - title: "Team"
+    url: /team/
+  - title: "Acknowledgement"
+    url: /acknowledgement/
