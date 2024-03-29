@@ -37,4 +37,4 @@ cosmological surveys, such as Rubin LSST, Euclid,
 SPHEREx, Roman, DESI, PFS, Simons Observatory, CMB-S4,
 and LiteBIRD.
 
-To find out more check out the rest of our website or <a href="mailto:abayer@princeton.edu">reach out here</a>!!
+To find out more check out the rest of our website or <a href="mailto:abayer@princeton.edu">reach out here</a>!
