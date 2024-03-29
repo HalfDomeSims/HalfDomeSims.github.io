@@ -45,5 +45,4 @@ Here is a list of all ongoing projects and their leaders:
 ---
 
 Got an idea for a project and want to chat? 
-Reach 
-<a href="mailto:abayer@princeton.edu">out</a>!
+<a href="mailto:abayer@princeton.edu">Reach out here</a>!
