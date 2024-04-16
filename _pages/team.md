@@ -17,11 +17,15 @@ last_modified_at: 2024-01-18
 toc: false
 ---
 
-|<img src="/assets/images/adrian.png"  style="width: 120px;">|<img src="/assets/images/jia.png"  style="width: 120px;">|
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
+|<img src="/assets/images/adrian.png"  style="width: 120px;">|<img src="/assets/images/jia.jpeg"  style="width: 120px;">|
 |<a href="https://adrianbayer.github.io/">Adrian Bayer</a> | <a href="https://liuxx479.github.io/">Jia Liu</a> |
 |(Princeton/CCA)| (CD3, Kavli IPMU)|
-
-
 
 <a href="https://j-dr.github.io/">Joe DeRose</a> (UC Berkeley/LBL)
 
