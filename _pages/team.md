@@ -24,19 +24,14 @@ td, th {
 </style>
 
 |:-------------:|:-------------:|:-------------:|:-------------:|
-|<img src="/assets/images/adrian.png"  style="width: 120px;">|<img src="/assets/images/jia.jpeg"  style="width: 120px;">| <img src="/assets/images/zack.png"  style="width: 120px;"> | <img src="/assets/images/joe.png"  style="width: 120px;">|
-|<a href="https://adrianbayer.github.io/">Adrian Bayer</a> | <a href="https://liuxx479.github.io/">Jia Liu</a> | <a href="https://zack.li/">Zack Li</a> | <a href="https://j-dr.github.io/">Joe DeRose</a> |
-| Princeton/CCA | CD3, Kavli IPMU | UC Berkeley/LBL | UC Berkeley/LBL|
+|<img src="/assets/images/adrian.png"  style="width: 120px;">|<img src="/assets/images/jia.jpeg"  style="width: 120px;">| <img src="/assets/images/zack.jpeg"  style="width: 120px;"> | <img src="/assets/images/joe.png"  style="width: 120px;">|
+|[Adrian Bayer](https://adrianbayer.github.io/) | [Jia Liu](https://liuxx479.github.io) | [Zack Li](https://zack.li/) | [Joe DeRose](https://j-dr.github.io/) |
+| Princeton/CCA | Kavli IPMU | UC Berkeley/LBL | UC Berkeley/LBL|
 
-<a href="https://yicizhong98.github.io/">Yici Zhong</a> (U Tokyo)
-
-Linda Blot
-
-Junjie Xia (Kavli IPMU)
-
-Marcelo Alvarez (LBL)
-
-<a href="https://rainwoodman.github.io/website/">Yu Feng</a> (Google)
+|:-------------:|:-------------:|:-------------:|:-------------:|
+|<img src="/assets/images/yici.jpeg"  style="width: 120px;">|<img src="/assets/images/linda.jpeg"  style="width: 120px;">| <img src="/assets/images/marcelo.png"  style="width: 120px;"> | <img src="/assets/images/yu.png"  style="width: 120px;">|
+|[Yici Zhong](https://yicizhong98.github.io/) | [Linda Blot](https://member.ipmu.jp/linda.blot/) | [Marcelo Alvarez](https://marcelo-alvarez.github.io/) | [Yu Feng](https://rainwoodman.github.io/website/)|
+| U Tokyo | Kavli IPMU | LBL | Google |
 
 Alex Laguë (U Penn)
 
