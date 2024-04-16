@@ -23,6 +23,8 @@ td, th {
 }
 </style>
 
+<div align="center">
+  
 |:-------------:|:-------------:|:-------------:|:-------------:|
 |<img src="/assets/images/adrian.png"  style="width: 120px;">|<img src="/assets/images/jia.jpeg"  style="width: 120px;">| <img src="/assets/images/zack.jpeg"  style="width: 120px;"> | <img src="/assets/images/joe.png"  style="width: 120px;">|
 |[Adrian Bayer](https://adrianbayer.github.io/) | [Jia Liu](https://liuxx479.github.io) | [Zack Li](https://zack.li/) | [Joe DeRose](https://j-dr.github.io/) |
@@ -33,12 +35,14 @@ td, th {
 |[Yici Zhong](https://yicizhong98.github.io/) | [Linda Blot](https://member.ipmu.jp/linda.blot/) | [Marcelo Alvarez](https://marcelo-alvarez.github.io/) | [Yu Feng](https://rainwoodman.github.io/website/)|
 | U Tokyo | Kavli IPMU | LBL | Google |
 
-Alex Laguë (U Penn)
+|:-------------:|:-------------:|:-------------:|:-------------:|
+|<img src="/assets/images/junjie.jpeg"  style="width: 120px;">|<img src="/assets/images/alex.png"  style="width: 120px;">| <img src="/assets/images/mat.jpeg"  style="width: 120px;"> | <img src="/assets/images/pug.png"  style="width: 120px;">|
+| [Junjie Xia](https://db.ipmu.jp/member/personal/7035en.html) | [Alex Laguë](https://alexlague.github.io/) | [Mathew Madhavacheril](https://msyriac.github.io/) |[Giuseppe Puglisi](https://giuspugl.github.io/)|
+| Kavli IPMU | U Penn | U Penn |  U Catania|
 
-Giuseppe Puglisi (U Catania)
+|:-------------:|:-------------:|
+|<img src="/assets/images/hideki.png"  style="width: 120px;">|<img src="/assets/images/will.png"  style="width: 120px;">| 
+| [Hideki Tanimura](https://inspirehep.net/authors/1890766) | [Will Coulton](https://www.damtp.cam.ac.uk/person/wrc27) | 
+| Kavli IPMU | Cambridge | 
 
-Hideki Tanimura (Kavli IPMU)
-
-Mat Madhavacheril (U Penn)
-
-Will Coulton (CCA)
+</div>
