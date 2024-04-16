@@ -15,26 +15,36 @@ layouts_gallery:
   - url: /assets/images/mm-layout-archive.png
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
-last_modified_at: 2024-01-18
+last_modified_at: 2024-04-16
 toc: false
 ---
 
 {% include feature_row %}
+
+The HalfDome Cosmological Simulations are tailored to 
+the joint analysis of ongoing and upcoming cosmological 
+surveys such as [DESI](https://www.desi.lbl.gov/), 
+[PFS](https://pfs.ipmu.jp/), [Rubin LSST](https://www.lsst.org/), 
+[Euclid](https://www.esa.int/Science_Exploration/Space_Science/Euclid),
+[SPHEREx](https://www.jpl.nasa.gov/missions/spherex), 
+[Roman](https://roman.gsfc.nasa.gov/), 
+[Simons Observatory](https://simonsobservatory.org/), 
+[CMB-S4](https://cmb-s4.org/),
+and [LiteBIRD](https://www.isas.jaxa.jp/en/missions/spacecraft/future/litebird.html). 
+We are a diverse team of experts in the worlds of the
+cosmic microwave background, large-scale structure, numerical simulations, 
+and machine learning.
 
 Upcoming cosmological surveys have the potential to
 reach groundbreaking discoveries on multiple fronts
 such as the neutrino mass, dark energy, and inflation.
 However, most of the key science goals require the joint
 analysis of multiple datasets to break parameter
-degeneracies and calibrate systematics. To realize such
-analyses, a large set of simulations that models the
-realistic observables in a correlated manner is required.
+degeneracies and calibrate systematics. The HalfDome simulations, 
+a large set of simulations that models the
+multi-wavelength observables in a correlated manner, 
+are designed to realize such analyses.
 
-We are a diverse team of experts in the worlds of the
-CMB, LSS, and Machine Learning set on simulating the Universe
-to enable the joint analysis of Stage IV
-cosmological surveys, such as Rubin LSST, Euclid,
-SPHEREx, Roman, DESI, PFS, Simons Observatory, CMB-S4,
-and LiteBIRD.
-
-To find out more check out the rest of our website or <a href="mailto:abayer@princeton.edu">reach out here</a>!
+We plan to release our simulations and codes to the public. 
+If you are interested in collaborating with us, 
+please <a href="mailto:abayer@princeton.edu">reach out</a>.
