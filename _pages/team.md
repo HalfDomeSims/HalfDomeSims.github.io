@@ -35,11 +35,11 @@ td, th {
 | U Tokyo | Kavli IPMU | LBL | Google |
 
 |:-------------:|:-------------:|:-------------:|:-------------:|
-|<img src="/assets/images/junjie.jpeg"  style="width: 120px;">|<img src="/assets/images/alex.png"  style="width: 120px;">| <img src="/assets/images/mat.jpeg"  style="width: 120px;"> | <img src="/assets/images/pug.png"  style="width: 120px;">|
-| [Junjie Xia](https://db.ipmu.jp/member/personal/7035en.html) | [Alex Laguë](https://alexlague.github.io/) | [Mathew Madhavacheril](https://msyriac.github.io/) |[Giuseppe Puglisi](https://giuspugl.github.io/)|
-| Kavli IPMU | U Penn | U Penn |  U Catania|
+|<img src="/assets/images/junjie.jpeg"  style="width: 120px;">|<img src="/assets/images/alex.png"  style="width: 120px;">| <img src="/assets/images/will.png"  style="width: 120px;"> | <img src="/assets/images/pug.png"  style="width: 120px;">|
+| [Junjie Xia](https://db.ipmu.jp/member/personal/7035en.html) | [Alex Laguë](https://alexlague.github.io/) | [Will Coulton](https://www.damtp.cam.ac.uk/person/wrc27)  |[Giuseppe Puglisi](https://giuspugl.github.io/)|
+| Kavli IPMU | U Penn | Cambridge |  U Catania|
 
 |:-------------:|:-------------:|
-|<img src="/assets/images/hideki.png"  style="width: 120px;">|<img src="/assets/images/will.png"  style="width: 120px;">| 
-| [Hideki Tanimura](https://inspirehep.net/authors/1890766) | [Will Coulton](https://www.damtp.cam.ac.uk/person/wrc27) | 
-| Kavli IPMU | Cambridge | 
+|<img src="/assets/images/hideki.png"  style="width: 120px;">|<img src="/assets/images/mat.jpeg"  style="width: 120px;">| 
+| [Hideki Tanimura](https://inspirehep.net/authors/1890766) | [Mathew Madhavacheril](https://msyriac.github.io/)| 
+| Kavli IPMU | U Penn | 
