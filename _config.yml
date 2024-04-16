@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "HalfDome"
 description              : "Correlated Simulations of the Universe"
-url                      : #https://halfdomesims.github.io/"
+URL                      : "https://halfdomesims.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "HalfDomeSims"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
