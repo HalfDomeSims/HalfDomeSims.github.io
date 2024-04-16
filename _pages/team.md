@@ -23,7 +23,6 @@ td, th {
 }
 </style>
 
-<div align="center">
   
 |:-------------:|:-------------:|:-------------:|:-------------:|
 |<img src="/assets/images/adrian.png"  style="width: 120px;">|<img src="/assets/images/jia.jpeg"  style="width: 120px;">| <img src="/assets/images/zack.jpeg"  style="width: 120px;"> | <img src="/assets/images/joe.png"  style="width: 120px;">|
@@ -44,5 +43,3 @@ td, th {
 |<img src="/assets/images/hideki.png"  style="width: 120px;">|<img src="/assets/images/will.png"  style="width: 120px;">| 
 | [Hideki Tanimura](https://inspirehep.net/authors/1890766) | [Will Coulton](https://www.damtp.cam.ac.uk/person/wrc27) | 
 | Kavli IPMU | Cambridge | 
-
-</div>
