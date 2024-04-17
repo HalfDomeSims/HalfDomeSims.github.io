@@ -17,32 +17,6 @@ last_modified_at: 2024-01-18
 toc: false
 ---
 
-So far we have used the simulations to <a href="https://arxiv.org/abs/2210.15647">compute 
-super-sample covariance for LSS</a>.
-
-More papers are coming soon! 
-
----
-
-Here is a list of all ongoing projects and their leaders: 
-
-<b> N-Body </b> (Yici Zhong)
-
-<b> Weak Lensing </b> (Jia Liu)
-
-<b> LSS </b> (Joe DeRose)
-
-<b> CMB </b> (Zack Li)
-
-<b> tSZ/kSZ </b> (Hideki Tanimura)
-
-<b> Radio </b> (Junjie Xia)
-
-<b> Clustering Dark Energy </b> (Linda Blot)
-
-<b> Super Resolution </b> (Akira Tokiwa)
-
----
-
-Got an idea for a project and want to chat? 
-<a href="mailto:abayer@princeton.edu">Reach out here</a>!
+**Super-sample covariance of the power spectrum, bispectrum, halos, voids, and their cross covariances** ([arxiv](https://arxiv.org/abs/2210.15647))\
+Adrian E. Bayer, Jia Liu, Ryo Terasawa, Alexandre Barreira, Yici Zhong, Yu Feng\
+Phys. Rev. D 108, 043521 (2023)
