@@ -1,6 +1,6 @@
 ---
 permalink: /team/
-title: "Team"
+title: "Team & Acknowledgement"
 #excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 classes: wide
 layouts_gallery:
@@ -23,7 +23,7 @@ td, th {
 }
 </style>
 
-  
+## Team   
 |:-------------:|:-------------:|:-------------:|:-------------:|
 |<img src="/assets/images/adrian.png"  style="width: 120px;">|<img src="/assets/images/jia.jpeg"  style="width: 120px;">| <img src="/assets/images/zack.jpeg"  style="width: 120px;"> | <img src="/assets/images/joe.png"  style="width: 120px;">|
 |[Adrian Bayer](https://adrianbayer.github.io/) | [Jia Liu](https://liuxx479.github.io) | [Zack Li](https://zack.li/) | [Joe DeRose](https://j-dr.github.io/) |
@@ -43,3 +43,7 @@ td, th {
 |<img src="/assets/images/hideki.png"  style="width: 120px;">|<img src="/assets/images/mat.jpeg"  style="width: 120px;">| 
 | [Hideki Tanimura](https://inspirehep.net/authors/1890766) | [Mathew Madhavacheril](https://msyriac.github.io/)| 
 | Kavli IPMU | U Penn | 
+
+## Acknowledgement
+
+We thank Julian Borrill and Reijo Keskitalo for their support in computation and data storage. The HalfDome project is supported by JSPS KAKENHI Grants JP23KJ0392 (YZ), 23K13095 and 23H00107 (JL). This research used resources of the National Energy Research Scientific Computing Center (NERSC), a U.S. Department of Energy Office of Science User Facility located at Lawrence Berkeley National Laboratory, operated under Contract No.~DE-AC02-05CH11231 using NERSC award  HEP-ERCAP0023125. We acknowledge the Texas Advanced Computing Center (TACC) at The University of Texas at Austin for providing grid resources that have contributed to our work. This work was supported by MEXT as ``Program for Promoting Researches on the Supercomputer Fugaku'' (Multi-wavelength Cosmological Simulations for Next-generation Surveys, JPMXP1020230407) and used computational resources of supercomputer Fugaku provided by the RIKEN Center for Computational Science (Project ID: hp230202). 
