@@ -47,4 +47,4 @@ are designed to realize such analyses.
 
 We plan to release our simulations and codes to the public. 
 If you are interested in collaborating with us, 
-please <a href="mailto:abayer@princeton.edu">reach out</a>.
+please <a href="mailto:halfdomesims@gmail.com">reach out</a>.
