@@ -1,10 +1,10 @@
 # main links
 main:
+  - title: "Home"
+    url: /home/
   - title: "Data"
     url: /data/
   - title: "Publications"
     url: /publications/
-  - title: "Team"
+  - title: "Team & Acknowledgements"
     url: /team/
-  - title: "Acknowledgements"
-    url: /acknowledgements/
