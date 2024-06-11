@@ -21,7 +21,7 @@ toc: false
 
 {% include feature_row %}
 
-<img src="/assets/images/logo_small.png" style="width: 200px; float: left;">
+<img src="/assets/images/logo_small.png" style="width: 200px;">
 
 The HalfDome Cosmological Simulations are tailored to 
 the joint analysis of ongoing and upcoming cosmological 
