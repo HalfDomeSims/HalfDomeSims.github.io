@@ -25,7 +25,7 @@ URL                      : "https://halfdomesims.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "HalfDomeSims"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/bio-photo.jpg"
+logo                     : "/assets/images//logo_small.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
