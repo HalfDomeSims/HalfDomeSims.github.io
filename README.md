@@ -2,7 +2,7 @@
 
 <img src="/assets/images/logo_small.png" style="width: 200px;">
 
-The HalfDome Cosmological Simulations are tailored to 
+The HalfDome Cosmological Simulations ([https://halfdomesims.github.io/](https://halfdomesims.github.io/)) are tailored to 
 the joint analysis of ongoing and upcoming cosmological 
 surveys such as [DESI](https://www.desi.lbl.gov/), 
 [PFS](https://pfs.ipmu.jp/), [Rubin LSST](https://www.lsst.org/), 
