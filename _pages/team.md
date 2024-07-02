@@ -26,7 +26,7 @@ td, th {
 ## Team   
 
 |:-------------:|:-------------:|:-------------:|:-------------:|
-|<img src="/assets/images/adrian.png"  style="width: 120px;">|<img src="/assets/images/jia.jpeg"  style="width: 120px;">| <img src="/assets/images/zack.jpeg"  style="width: 120px;"> | <img src="/assets/images/joe.png"  style="width: 120px;">|
+|<img src="/assets/images/adrian.png"  style="width: 120px;">| <img src="/assets/images/zack.jpeg"  style="width: 120px;"> | <img src="/assets/images/joe.png"  style="width: 120px;">| <img src="/assets/images/jia.jpeg"  style="width: 120px;">|
 |[Adrian Bayer](https://adrianbayer.github.io/) | [Zack Li](https://zack.li/) | [Joe DeRose](https://j-dr.github.io/) | [Jia Liu](https://liuxx479.github.io) |
 | Princeton/CCA | UC Berkeley/LBL | UC Berkeley/LBL| Kavli IPMU |
 
