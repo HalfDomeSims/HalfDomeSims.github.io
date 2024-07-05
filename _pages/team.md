@@ -47,6 +47,13 @@ td, th {
 
 ## Acknowledgement
 
-The HalfDome project is supported by JSPS KAKENHI Grants JP23KJ0392 (YZ), 23K13095 and 23H00107 (JL). MM and AL acknowledge support from NASA grant 21-ATP21-0145. This research used resources of the National Energy Research Scientific Computing Center (NERSC), a U.S. Department of Energy Office of Science User Facility located at Lawrence Berkeley National Laboratory, operated under Contract No. DE-AC02-05CH11231 using NERSC award  HEP-ERCAP0023125. We acknowledge the Texas Advanced Computing Center (TACC) at The University of Texas at Austin for providing grid resources that have contributed to our work. This work was supported by MEXT as ``Program for Promoting Researches on the Supercomputer Fugaku'' (Multi-wavelength Cosmological Simulations for Next-generation Surveys, JPMXP1020230407) and used computational resources of supercomputer Fugaku provided by the RIKEN Center for Computational Science (Project ID: hp230202). 
+The HalfDome project is supported by JSPS KAKENHI Grants JP23KJ0392 (YZ), 23K13095 and 23H00107 (JL). MM and AL acknowledge support from NASA grant 21-ATP21-0145. This research used resources of the National Energy Research Scientific Computing Center (NERSC), a U.S. Department of Energy Office of Science User Facility located at Lawrence Berkeley National Laboratory, operated under Contract No. DE-AC02-05CH11231 using NERSC award  HEP-ERCAP0023125. We acknowledge the Texas Advanced Computing Center (TACC) at The University of Texas at Austin for providing grid resources that have contributed to our work. This work was supported by MEXT as ``Program for Promoting Researches on the Supercomputer Fugaku'' (Multi-wavelength Cosmological Simulations for Next-generation Surveys, JPMXP1020230407) and used computational resources of supercomputer Fugaku provided by the RIKEN Center for Computational Science (Project ID: hp230202). We thank Julian Borrill and Reijo Keskitalo for their support in computation and data storage. The HalfDome logo is designed by [James Sunseri](https://james-sunseri.com/). 
 
-We thank Julian Borrill and Reijo Keskitalo for their support in computation and data storage. The HalfDome logo is designed by [James Sunseri](https://james-sunseri.com/). 
+## Other cosmological simulations with correlated mocks
+
+[Sehgal+2010](https://lambda.gsfc.nasa.gov/simulation/full_sky_sims_ov.html)
+[BAHAMAS](https://www.astro.ljmu.ac.uk/~igm/BAHAMAS/)
+[Takahashi+2017](http://cosmo.phys.hirosaki-u.ac.jp/takahasi/allsky_raytracing/)
+[MassiveNuS](https://columbialensing.github.io/#massivenus)
+[Websky](https://mocks.cita.utoronto.ca/index.php/WebSky_Extragalactic_CMB_Mocks)
+[Agora](https://yomori.github.io/agora/index.html)
