@@ -1,4 +1,4 @@
-<img width="1130" alt="image" src="https://github.com/user-attachments/assets/f9a54f91-1efd-485e-887d-f79d3b7d8c76">---
+---
 permalink: /data/
 title: "Data"
 #excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
