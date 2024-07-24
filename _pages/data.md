@@ -13,7 +13,7 @@ layouts_gallery:
   - url: /assets/images/mm-layout-archive.png
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
-last_modified_at: 2024-04-17
+last_modified_at: 2024-07-23
 toc: false
 ---
 
@@ -22,10 +22,10 @@ toc: false
 
 <img src="/assets/images/tab2.png"  style="width: 800px;">
 
-Data can be found on NERSC in the CMB project directory at the following path /global/cfs/cdirs/cmb/data/halfdome/.
+Data can be found on the [NERSC](https://nersc.gov/) cluster in the CMB project directory at the following path `/global/cfs/cdirs/cmb/data/halfdome/`.
 
-For a description of the data see the enclosed README.txt.
+For a description of the data see the enclosed `README.txt`.
 
-For an example of reading the data see the enclosed notebook Halfdome_analysis.ipynb.
+For an example of reading the data see the enclosed notebook `Halfdome_analysis.ipynb`.
 
 Further examples, notebooks, and data will be added soon!
