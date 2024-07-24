@@ -13,7 +13,7 @@ layouts_gallery:
   - url: /assets/images/mm-layout-archive.png
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
-last_modified_at: 2024-04-16
+last_modified_at: 2024-07-23
 toc: false
 ---
 
@@ -52,8 +52,15 @@ The HalfDome project is supported by JSPS KAKENHI Grants JP23KJ0392 (YZ), 23K130
 ## Other cosmological simulations with correlated mocks
 
 [Sehgal+2010](https://lambda.gsfc.nasa.gov/simulation/full_sky_sims_ov.html)
+
 [BAHAMAS](https://www.astro.ljmu.ac.uk/~igm/BAHAMAS/)
+
 [Takahashi+2017](http://cosmo.phys.hirosaki-u.ac.jp/takahasi/allsky_raytracing/)
+
 [MassiveNuS](https://columbialensing.github.io/#massivenus)
+
+[Buzzard](https://buzzardflock.github.io/)
+
 [Websky](https://mocks.cita.utoronto.ca/index.php/WebSky_Extragalactic_CMB_Mocks)
+
 [Agora](https://yomori.github.io/agora/index.html)
