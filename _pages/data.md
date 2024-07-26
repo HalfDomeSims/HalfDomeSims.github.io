@@ -22,7 +22,7 @@ toc: false
 
 <img src="/assets/images/tab2.png"  style="width: 800px;">
 
-Data can be found on the [NERSC](https://nersc.gov/) cluster in the CMB project directory at the following path `/global/cfs/cdirs/cmb/data/halfdome/`.
+Data can be found on the [NERSC](https://nersc.gov/) community file storage (CFS) system in the CMB project directory at the following path `/global/cfs/cdirs/cmb/data/halfdome/`.
 
 For a description of the data see the enclosed `README.txt`.
 
