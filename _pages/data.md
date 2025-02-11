@@ -18,7 +18,7 @@ toc: false
 ---
 
 
-<img src="/assets/images/samplemaps.png"  style="width: 800px;">
+<img src="/assets/images/hdmaps.png"  style="width: 800px;">
 
 <img src="/assets/images/tab2.png"  style="width: 800px;">
 
