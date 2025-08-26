@@ -46,16 +46,16 @@ td, th {
 | Kavli IPMU | Kavli IPMU | UTokyo | IFCA |
 
 |:-------------:|:-------------:|
-|<img src="/assets/images/alex.png"  style="width: 120px;">|<img src="/assets/images/mat.jpeg"  style="width: 120px;">| 
-| [Alex Laguë](https://alexlague.github.io/) | [Mathew Madhavacheril](https://msyriac.github.io/)| 
-| U Penn | U Penn | 
+| <img src="/assets/images/pug.png"  style="width: 120px;">|<img src="/assets/images/alex.png"  style="width: 120px;">|<img src="/assets/images/mat.jpeg"  style="width: 120px;">| 
+| [Giuseppe Puglisi](https://giuspugl.github.io/)|[Alex Laguë](https://alexlague.github.io/) | [Mathew Madhavacheril](https://msyriac.github.io/)| 
+| U Catania| U Penn | U Penn | 
 
 ### Past Contributors  
 
 |:-------------:|:-------------:|:-------------:|:-------------:|
-|<img src="/assets/images/junjie.jpeg"  style="width: 120px;">|<img src="/assets/images/hideki.png"  style="width: 120px;">| <img src="/assets/images/will.png"  style="width: 120px;"> | <img src="/assets/images/pug.png"  style="width: 120px;">|
-| [Junjie Xia](https://db.ipmu.jp/member/personal/7035en.html) | [Hideki Tanimura](https://inspirehep.net/authors/1890766) | [Will Coulton](https://www.damtp.cam.ac.uk/person/wrc27)  |[Giuseppe Puglisi](https://giuspugl.github.io/)|
-| Kavli IPMU | Kavli IPMU | Cambridge |  U Catania|
+|<img src="/assets/images/junjie.jpeg"  style="width: 120px;">|<img src="/assets/images/hideki.png"  style="width: 120px;">| <img src="/assets/images/will.png"  style="width: 120px;"> |
+| [Junjie Xia](https://db.ipmu.jp/member/personal/7035en.html) | [Hideki Tanimura](https://inspirehep.net/authors/1890766) | [Will Coulton](https://www.damtp.cam.ac.uk/person/wrc27)  |
+| Kavli IPMU | Kavli IPMU | Cambridge |  
 
 
 
