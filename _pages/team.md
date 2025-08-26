@@ -26,24 +26,38 @@ td, th {
 ## Team   
 
 |:-------------:|:-------------:|:-------------:|:-------------:|
-|<img src="/assets/images/adrian.png"  style="width: 120px;">| <img src="/assets/images/zack.jpeg"  style="width: 120px;"> | <img src="/assets/images/joe.png"  style="width: 120px;">| <img src="/assets/images/jia.jpeg"  style="width: 120px;">|
+|<img src="/assets/images/adrian.png"  style="width: 120px;">|<img src="/assets/images/zack.jpeg"  style="width: 120px;">|<img src="/assets/images/joe.jpg"  style="width: 120px;">|<img src="/assets/images/jia.jpeg"  style="width: 120px;">|
 |[Adrian Bayer](https://adrianbayer.github.io/) | [Zack Li](https://zack.li/) | [Joe DeRose](https://j-dr.github.io/) | [Jia Liu](https://liuxx479.github.io) |
 | Princeton/CCA | UC Berkeley/LBL | UC Berkeley/LBL| Kavli IPMU |
 
 |:-------------:|:-------------:|:-------------:|:-------------:|
 |<img src="/assets/images/yici.jpeg"  style="width: 120px;">|<img src="/assets/images/linda.jpeg"  style="width: 120px;">| <img src="/assets/images/marcelo.png"  style="width: 120px;"> | <img src="/assets/images/yu.png"  style="width: 120px;">|
 |[Yici Zhong](https://yicizhong98.github.io/) | [Linda Blot](https://member.ipmu.jp/linda.blot/) | [Marcelo Alvarez](https://marcelo-alvarez.github.io/) | [Yu Feng](https://rainwoodman.github.io/website/)|
-| U Tokyo | Kavli IPMU | LBL | Google |
+| U Tokyo | Kavli IPMU | Stanford | Google |
 
 |:-------------:|:-------------:|:-------------:|:-------------:|
-|<img src="/assets/images/junjie.jpeg"  style="width: 120px;">|<img src="/assets/images/alex.png"  style="width: 120px;">| <img src="/assets/images/will.png"  style="width: 120px;"> | <img src="/assets/images/pug.png"  style="width: 120px;">|
-| [Junjie Xia](https://db.ipmu.jp/member/personal/7035en.html) | [Alex Laguë](https://alexlague.github.io/) | [Will Coulton](https://www.damtp.cam.ac.uk/person/wrc27)  |[Giuseppe Puglisi](https://giuspugl.github.io/)|
-| Kavli IPMU | U Penn | Cambridge |  U Catania|
+|<img src="/assets/images/jess.png"  style="width: 120px;">|<img src="/assets/images/chenze.png"  style="width: 120px;">| <img src="/assets/images/thomas.png"  style="width: 120px;"> | <img src="/assets/images/ben.jpg"  style="width: 120px;">|
+|[Jess Cowell](https://inspirehep.net/authors/2618702) | [Chenze Dong](https://db.ipmu.jp/member/personal/6992en.html) | [Thomas Venville](https://physics.anu.edu.au/contact/people/profile.php?ID=3393) | [Ben Horowitz](https://bhorowitz.github.io/)|
+| Oxford/IPMU | Kavli IPMU | ANU | Kavli IPMU |
+
+|:-------------:|:-------------:|:-------------:|:-------------:|
+|<img src="/assets/images/joaquin2.jpg"  style="width: 120px;">|<img src="/assets/images/leander.jpg"  style="width: 120px;">| <img src="/assets/images/yuka.jpg"  style="width: 120px;"> | <img src="/assets/images/miguel.jpg"  style="width: 120px;">|
+|[Joaquin Armijo](https://jarmijotorres.github.io/Joaquin.Armijo.Torres/) | [Leander Thiele](https://leanderthiele.github.io/) | [Yuka Yamada](https://www.s.u-tokyo.ac.jp/en/story/newsletter/page/10727/) | [Miguel Ruiz Granda](https://orcid.org/0000-0003-2086-0043)|
+| Kavli IPMU | Kavli IPMU | UTokyo | IFCA |
 
 |:-------------:|:-------------:|
-|<img src="/assets/images/hideki.png"  style="width: 120px;">|<img src="/assets/images/mat.jpeg"  style="width: 120px;">| 
-| [Hideki Tanimura](https://inspirehep.net/authors/1890766) | [Mathew Madhavacheril](https://msyriac.github.io/)| 
-| Kavli IPMU | U Penn | 
+|<img src="/assets/images/alex.png"  style="width: 120px;">|<img src="/assets/images/mat.jpeg"  style="width: 120px;">| 
+| [Alex Laguë](https://alexlague.github.io/) | [Mathew Madhavacheril](https://msyriac.github.io/)| 
+| U Penn | U Penn | 
+
+## Past Contributors  
+
+|:-------------:|:-------------:|:-------------:|:-------------:|
+|<img src="/assets/images/junjie.jpeg"  style="width: 120px;">|<img src="/assets/images/hideki.png"  style="width: 120px;">| <img src="/assets/images/will.png"  style="width: 120px;"> | <img src="/assets/images/pug.png"  style="width: 120px;">|
+| [Junjie Xia](https://db.ipmu.jp/member/personal/7035en.html) | [Hideki Tanimura](https://inspirehep.net/authors/1890766) | [Will Coulton](https://www.damtp.cam.ac.uk/person/wrc27)  |[Giuseppe Puglisi](https://giuspugl.github.io/)|
+| Kavli IPMU | Kavli IPMU | Cambridge |  U Catania|
+
+
 
 ## Acknowledgement
 
