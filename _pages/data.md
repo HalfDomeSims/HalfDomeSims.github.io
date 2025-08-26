@@ -22,7 +22,7 @@ toc: false
 
 <img src="/assets/images/tab2.png"  style="width: 800px;">
 
-The data is publicly available on globus [here](https://app.globus.org/file-manager?origin_id=53b2a147-ae9d-4bbf-9d18-3b46d133d4bb&origin_path=%2Fhalfdome%2F), and can also be found on the [NERSC](https://nersc.gov/) community file storage (CFS) system in the CMB project directory at the following path `/global/cfs/cdirs/cmb/data/halfdome/`.
+The data is publicly available on globus [here](https://app.globus.org/file-manager?origin_id=53b2a147-ae9d-4bbf-9d18-3b46d133d4bb&origin_path=%2Fhalfdome%2F), and can also be found on the [NERSC](https://nersc.gov/) community file storage (CFS) system in the CMB project directory at the following path `/global/cfs/cdirs/cmb/gsharing/halfdome/`.
 
 For a description of the data see the enclosed `README.txt`.
 
