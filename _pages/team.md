@@ -43,7 +43,7 @@ td, th {
 |:-------------:|:-------------:|:-------------:|:-------------:|
 |<img src="/assets/images/joaquin2.jpg"  style="width: 120px;">|<img src="/assets/images/leander.jpg"  style="width: 120px;">| <img src="/assets/images/yuka.jpg"  style="width: 120px;"> | <img src="/assets/images/miguel.jpg"  style="width: 120px;">|
 |[Joaquin Armijo](https://jarmijotorres.github.io/Joaquin.Armijo.Torres/) | [Leander Thiele](https://leanderthiele.github.io/) | [Yuka Yamada](https://www.s.u-tokyo.ac.jp/en/story/newsletter/page/10727/) | [Miguel Ruiz Granda](https://orcid.org/0000-0003-2086-0043)|
-| Kavli IPMU | Kavli IPMU | UTokyo | IFCA |
+| Kavli IPMU | Kavli IPMU | U Tokyo | IFCA |
 
 |:-------------:|:-------------:|
 | <img src="/assets/images/pug.png"  style="width: 120px;">|<img src="/assets/images/alex.png"  style="width: 120px;">|<img src="/assets/images/mat.jpeg"  style="width: 120px;">| 
