@@ -13,7 +13,7 @@ layouts_gallery:
   - url: /assets/images/mm-layout-archive.png
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
-last_modified_at: 2025-08-26
+last_modified_at: 2026-10-06
 toc: false
 ---
 
@@ -28,7 +28,7 @@ td, th {
 |:-------------:|:-------------:|:-------------:|:-------------:|
 |<img src="/assets/images/adrian.png"  style="width: 120px;">|<img src="/assets/images/zack.jpeg"  style="width: 120px;">|<img src="/assets/images/joe.jpg"  style="width: 120px;">|<img src="/assets/images/jia.jpeg"  style="width: 120px;">|
 |[Adrian Bayer](https://adrianbayer.github.io/) | [Zack Li](https://zack.li/) | [Joe DeRose](https://j-dr.github.io/) | [Jia Liu](https://liuxx479.github.io) |
-| Princeton/CCA | UC Berkeley/LBL | UC Berkeley/LBL| Kavli IPMU |
+| MIT/Harvard/Perimeter | UC Berkeley/LBL | UC Berkeley/LBL| Kavli IPMU |
 
 |:-------------:|:-------------:|:-------------:|:-------------:|
 |<img src="/assets/images/yici.jpeg"  style="width: 120px;">|<img src="/assets/images/linda.jpeg"  style="width: 120px;">| <img src="/assets/images/marcelo.png"  style="width: 120px;"> | <img src="/assets/images/yu.png"  style="width: 120px;">|
