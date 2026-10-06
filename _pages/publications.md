@@ -31,7 +31,7 @@ arXiv:2609.14862 (2026)
 
 **Impact of Simulation Box Size for Weak Lensing: Replication and Super-Sample Effects** ([arXiv](https://arxiv.org/abs/2511.20423))\
 Akira Tokiwa, Adrian E. Bayer, Joaquin Armijo, Jia Liu, Ryo Terasawa, Leander Thiele, Marcelo Alvarez, Linda Blot, Masahiro Takada\
-arXiv:2511.20423 (2025)
+[JCAP 07 (2026) 023](https://doi.org/10.1088/1475-7516/2026/07/023)
 
 **Super-sample covariance of the power spectrum, bispectrum, halos, voids, and their cross covariances** ([arXiv](https://arxiv.org/abs/2210.15647))\
 Adrian E. Bayer, Jia Liu, Ryo Terasawa, Alexandre Barreira, Yici Zhong, Yu Feng\

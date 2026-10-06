@@ -18,20 +18,7 @@ toc: false
 ---
 
 
-<link rel="stylesheet" href="/assets/css/map-slideshow.css">
-<div class="hd-map-showcase" data-map-showcase role="region" aria-label="Animated HalfDome maps">
-  <div class="hd-map-showcase__title" data-map-title>Lensed CMB</div>
-  <div class="hd-map-stage">
-    <img data-map-base src="/assets/images/maps/lensed_cmb-sky.webp" alt="Lensed CMB full-sky map" width="1024" height="568" fetchpriority="high">
-    <img data-map-incoming class="hd-map-stage__incoming" src="/assets/images/maps/lensed_cmb-sky.webp" alt="" aria-hidden="true" width="1024" height="568">
-  </div>
-  <div class="hd-map-controls" data-map-controls hidden>
-    <button type="button" data-map-previous aria-label="Previous map">&#8592;</button>
-    <button type="button" data-map-toggle aria-label="Pause map animation">Pause</button>
-    <span class="hd-map-controls__position" data-map-position>1 / 7</span>
-    <button type="button" data-map-next aria-label="Next map">&#8594;</button>
-  </div>
-</div>
+<link rel="stylesheet" href="/assets/css/map-gallery.css">
 <div class="hd-map-grid" data-map-gallery aria-label="HalfDome map previews">
   <a href="/assets/images/maps/lensed_cmb-sky.webp">
     <span>Lensed CMB</span>
@@ -57,12 +44,7 @@ toc: false
     <span>kSZ (field)</span>
     <img src="/assets/images/maps/ksz_field-sky.webp" alt="kSZ (field)" width="1024" height="568" loading="lazy">
   </a>
-  <a href="/assets/images/maps/tau-sky.webp">
-    <span>Optical depth</span>
-    <img src="/assets/images/maps/tau-sky.webp" alt="Optical depth" width="1024" height="568" loading="lazy">
-  </a>
 </div>
-<script src="/assets/js/map-slideshow.js" defer></script>
 
 <img src="/assets/images/tab2.png"  style="width: 800px;">
 
