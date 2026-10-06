@@ -24,8 +24,8 @@ toc: false
     <img src="/assets/images/maps/tsz-sky.webp" alt="tSZ" width="640" height="355" loading="lazy" style="display: block; width: 100%; height: auto;">
   </a>
   <a href="/assets/images/maps/cib_143-sky.webp" style="display: block; color: inherit; text-decoration: none;">
-    <span style="display: block; text-align: center; font-size: 0.85em;">XGPaint CIB</span>
-    <img src="/assets/images/maps/cib_143-sky.webp" alt="XGPaint CIB" width="640" height="355" loading="lazy" style="display: block; width: 100%; height: auto;">
+    <span style="display: block; text-align: center; font-size: 0.85em;">CIB</span>
+    <img src="/assets/images/maps/cib_143-sky.webp" alt="CIB" width="640" height="355" loading="lazy" style="display: block; width: 100%; height: auto;">
   </a>
   <a href="/assets/images/maps/source_plane_kappa_1-sky.webp" style="display: block; color: inherit; text-decoration: none;">
     <span style="display: block; text-align: center; font-size: 0.85em;">Lensing</span>
